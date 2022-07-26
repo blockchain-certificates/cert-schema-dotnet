@@ -1,0 +1,4 @@
+[submodule "jsonld-normalization-dotnet"]
+	path = jsonld-normalization-dotnet
+	url = git@github.com:blockchain-certificates/jsonld-normalization-dotnet.git
+	branch = master

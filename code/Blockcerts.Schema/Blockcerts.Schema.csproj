@@ -16,4 +16,8 @@
     </EmbeddedResource>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\jsonld-normalization-dotnet\code\JsonLd.Normalization\JsonLd.Normalization.csproj" />
+  </ItemGroup>
+
 </Project>
