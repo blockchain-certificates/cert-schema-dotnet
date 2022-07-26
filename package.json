@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@blockcerts/schemas": "^3.2.1"
+  }
+}
