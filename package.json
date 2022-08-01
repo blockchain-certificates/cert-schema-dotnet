@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "@blockcerts/schemas": "^3.2.1"
+  },
+  "devDependencies": {
+    "semantic-release": "^19.0.3"
   }
 }
